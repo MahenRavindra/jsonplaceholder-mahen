@@ -1,3 +1,3 @@
 # jsonplaceholder-mahen 
-Using Vanila ja
+Using Vanila js , 
 websitelink - https://mahenravindra.github.io/jsonplaceholder-mahen/
